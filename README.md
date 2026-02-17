@@ -77,7 +77,7 @@ This simulates adaptive pesticide control.
 ## Clone Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/sainadh-y/Infection-Aware-UAV-Spraying-System
 cd plant-infection-project
 ```
 
